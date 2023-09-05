@@ -1,4 +1,4 @@
-# Sosyal-Medya-Uygulamas-
+# Sosyal-Medya-Uygulaması-
 Kullanıcıların birbirleri ile etkileşime girebildiği mobil uygulama
 
 Uygulama Görüntüleri
